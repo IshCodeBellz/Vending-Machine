@@ -1,0 +1,41 @@
+2020-06-22T09:52:42.955 : displayAvailableItems - Has been called
+2020-06-22T09:52:54.131 : getMenuSelection - Has been called
+2020-06-22T09:52:56.935 : addFunds - Has been called
+2020-06-22T09:52:59.706 : getMenuSelection - Has been called
+2020-06-22T09:53:03.290 : displayAvailableItems - Has been called
+2020-06-22T09:53:08.223 : getMenuSelection - Has been called
+2020-06-22T09:53:18.847 : purchaseItem - Has been called
+2020-06-22T09:53:22.060 : returnChange - Has been called
+2020-06-22T09:53:22.060 : returnChange - ERROR: ERROR: No change to return.
+2020-06-22T09:53:24.988 : getMenuSelection - Has been called
+2020-06-22T10:11:04.219 : displayAvailableItems - Has been called
+2020-06-22T10:11:16.269 : getMenuSelection - Has been called
+2020-06-22T10:11:21.500 : addFunds - Has been called
+2020-06-22T10:11:23.754 : getMenuSelection - Has been called
+2020-06-22T10:11:28.205 : displayAvailableItems - Has been called
+2020-06-22T10:11:31.759 : getMenuSelection - Has been called
+2020-06-22T10:11:38.995 : purchaseItem - Has been called
+2020-06-22T10:11:41.049 : returnChange - Has been called
+2020-06-22T10:14:45.913 : getMenuSelection - Has been called
+2020-06-22T16:15:39.550 : displayAvailableItems - Has been called
+2020-06-22T16:15:42.777 : getMenuSelection - Has been called
+2020-06-22T16:15:53.691 : addFunds - Has been called
+2020-06-22T16:16:00.356 : getMenuSelection - Has been called
+2020-06-22T16:16:08.821 : getMenuSelection - ERROR: ERROR: Unknown command!
+2020-06-22T16:16:08.822 : getMenuSelection - Has been called
+2020-06-22T16:16:17.377 : purchaseItem - Has been called
+2020-06-22T16:16:19.609 : returnChange - Has been called
+2020-06-23T03:45:23.703 : addFunds |Funds available: $2.00
+2020-06-23T03:45:47.105 : purchaseItem |Name: Milk Duds |Price: $0.5 |Qty Available: 9
+2020-06-23T03:45:50.926 : returnChange |Quarters: 6 |Dimes: 0 |Nickels: 0 |Pennies: 0
+2020-06-23T03:45:57.567 : returnChange |Attempted  |Funds available: $0 |Exception ERROR: No change to return. 
+2020-06-23T04:24:06.794 : addFunds |Funds available: $2.00
+2020-06-23T04:24:14.835 : purchaseItem |Name: Coke |Price: $1.75 |Qty Available: 9
+2020-06-23T04:24:18.154 : returnChange |Quarters: 1 |Dimes: 0 |Nickels: 0 |Pennies: 0
+2020-06-23T04:50:40.721 : addFunds |Funds available: $5.00
+2020-06-23T04:50:47.657 : purchaseItem |Name: Lay's potato chips |Price: $0.95 |Qty Available: 9
+2020-06-23T04:50:57.024 : purchaseItem |Name: Coke |Price: $1.75 |Qty Available: 8
+2020-06-23T04:51:00.342 : returnChange |Quarters: 9 |Dimes: 0 |Nickels: 1 |Pennies: 0
+2020-06-23T10:28:18.499 : addFunds |Funds available: $3.00
+2020-06-23T10:28:24.531 : purchaseItem |Name: Cheetos |Price: $0.95 |Qty Available: 9
+2020-06-23T10:28:28.910 : returnChange |Quarters: 8 |Dimes: 0 |Nickels: 1 |Pennies: 0

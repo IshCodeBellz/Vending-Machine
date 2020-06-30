@@ -1,0 +1,25 @@
+Reeses Peanut Butter Cups:;:0.95:;:10
+Twix:;:0.75:;:10
+Doritos:;:0.75:;:10
+Peanut M Ms:;:0.75:;:10
+Nacho Cheese Doritos:;:1.25:;:10
+Butterfinger:;:0.75:;:10
+Dr. Pepper:;:1.75:;:10
+Red Bull:;:1.75:;:9
+Fanta:;:1.75:;:10
+Diet Coke:;:1.25:;:10
+Water:;:0.75:;:10
+Lay's potato chips:;:0.95:;:10
+Cheetos:;:0.95:;:10
+Mars:;:0.5:;:10
+Snickers:;:0.75:;:10
+Diet Pepsi:;:1.25:;:10
+Beef Jerky:;:2.00:;:9
+Sprite:;:1.75:;:10
+Coke:;:1.75:;:10
+Pepsi:;:1.75:;:10
+Oreo:;:0.5:;:10
+Peanut M Ms:;:0.5:;:10
+Milky Way:;:0.95:;:9
+Vitamen Water:;:1.25:;:10
+Milk Duds:;:0.5:;:10
